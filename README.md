@@ -1,1 +1,2 @@
-# vignesh-AI1110
+AI1110
+This repository is created for course AI1110 Probability and Ramdom Variables
